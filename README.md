@@ -1,2 +1,3 @@
 # nn_minigrad_learn
-justthe implementation of minigradient for backpropagation
+<br>
+The simple implementation of minigradient for backpropagation 
